@@ -14,8 +14,6 @@ https://www.dio.me/certificate/5723B74A
 💻 En Mayo completé el curso de Udemy de Desarrollo Web con Spring Boot.<br/>
  Curso que me despertó un gran interés por el backend 😍<br/>
 
-Contacto: ✉️marcocastroes@outlook.com<br/>
-Mi Github: https://github.com/marcosouzacastro
 <br/>
 
   ##
